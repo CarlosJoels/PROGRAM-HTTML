@@ -26,7 +26,7 @@ Finally, it prints the calculated square root or an error message depending on t
 
 
 # CAPTURE OF THE EXECUTION AND FUNCTIONALITY OF THE PROGRAM
-<img src="https://github.com/CarlosJoels/PYTHON-PROGRAM/assets/169932054/5b37e5b7-2f38-4520-8854-cb2678205fcc">
+<img src="https://github.com/CarlosJoels/PROGRAM-HTTML/assets/169932054/9246ff39-822b-45f6-b727-a7af623ec98b">
 
 
 # Executing Python Script to Calculate Square Root via Terminal
