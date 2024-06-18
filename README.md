@@ -1,7 +1,7 @@
-# PROGRAM-HTTML
+
 <img src="https://github.com/SNEIDER31LM/SwitchandFuctions/assets/169932054/9f1b9456-818c-4289-acd1-b3b4e573d86d">
 
-# PROJECT PYTHON
+# PROGRAM-HTTML
 # Subject:
 
 Programming
@@ -12,7 +12,7 @@ Programming
 
 # Program display
 
-* Used language and libraries/packages: Python"
+* Used language and libraries/packages: JavaScript"
 
 # PROGRAM FUNCIONALITY
 
